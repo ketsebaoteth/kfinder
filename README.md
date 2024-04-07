@@ -33,7 +33,7 @@ KFinder is a lightweight file search application designed to simplify the proces
 Contributions to KFinder are welcome! If you'd like to contribute new features, improvements, or bug fixes, please fork the repository, make your changes, and submit a pull request.
 
 ## Support
-If you encounter any issues while using KFinder or have any questions, feel free to reach out to our support team at [support@example.com](mailto:support@example.com).
+If you encounter any issues while using KFinder or have any questions, feel free to reach out to our support team at [support@example.com](mailto:khubofficial@gmail.com).
 
 ## License
 KFinder is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the software as per the terms of the license.
