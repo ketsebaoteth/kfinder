@@ -1,0 +1,7 @@
+d.txt : ./index\d.txt
+dir1 : ./testdir\dir1
+dir11 : ./testdir\dir1\dir11
+dir12 : ./testdir\dir1\dir12
+dir2 : ./testdir\dir2
+dir3 : ./testdir\dir3
+dir4 : ./testdir\dir4

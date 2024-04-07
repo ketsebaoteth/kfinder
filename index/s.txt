@@ -1,0 +1,3 @@
+s.txt : ./index\s.txt
+someone : ./testdir\dir3\someone
+someone with me : ./testdir\dir4\someone with me

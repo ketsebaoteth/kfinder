@@ -1,0 +1,1 @@
+n.txt : ./index\n.txt

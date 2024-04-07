@@ -1,0 +1,3 @@
+C:/Users/admin/Documents/GitHub/learning c++/CMakeFiles/kfinder.dir
+C:/Users/admin/Documents/GitHub/learning c++/CMakeFiles/ALL_BUILD.dir
+C:/Users/admin/Documents/GitHub/learning c++/CMakeFiles/ZERO_CHECK.dir

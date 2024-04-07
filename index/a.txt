@@ -1,0 +1,2 @@
+a.txt : ./index\a.txt
+almamudin : ./testdir\almamudin

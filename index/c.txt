@@ -1,0 +1,2 @@
+c.txt : ./index\c.txt
+cool.h : ./testdir\dir1\dir12\cool.h
